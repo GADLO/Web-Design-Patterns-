@@ -1,2 +1,2 @@
-# Web-Design-Patterns-
-Design Patterns 
+# 设计模式
+设计模式是解决软件设计问题可重用的模版，同时提高代码的可读性以及代码执行效率
